@@ -1,0 +1,17 @@
+{
+  "applinks" : {
+    "details" : [
+      {
+        "appIDs" : [
+          "A6BKP8V4WU.com.tedon.tono"
+        ],
+        "components" : [
+          {
+            "\/" : "\/tono\/install\/*",
+            "comment" : "Tono catalog installs"
+          }
+        ]
+      }
+    ]
+  }
+}

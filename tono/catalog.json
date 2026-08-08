@@ -1,0 +1,36 @@
+{
+  "generatedAt" : "2026-08-08T16:41:12Z",
+  "packages" : [
+    {
+      "byteSize" : 1119948,
+      "displayName" : "Kookschool - Thais koken",
+      "downloadURL" : "https:\/\/ehagen.github.io\/tono\/com.tedon.tono.course.kookschool-thais-koken-1.0.0.tono",
+      "id" : "com.tedon.tono.course.kookschool-thais-koken",
+      "license" : {
+        "identifier" : "CC-BY-4.0 AND CC0-1.0",
+        "name" : "CC BY 4.0 course content with CC0 media",
+        "url" : "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+      },
+      "locale" : "nl",
+      "mediaCount" : 4,
+      "minimumAppVersion" : "0.1.0",
+      "provenance" : [
+        {
+          "license" : {
+            "identifier" : "CC-BY-4.0",
+            "name" : "Creative Commons Attribution 4.0 International",
+            "url" : "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+          },
+          "redistributable" : true,
+          "rightsHolder" : "Tedon",
+          "sourcePrefix" : "tono:curriculum"
+        }
+      ],
+      "sha256" : "d83ec2c083737eaeff5e71361e25bac787aebd61a22342f8778b2e8b44224a30",
+      "signature" : "ELfnGtLu5MEelP8NDRlTCWLkcqxSHuHPjP1QV3eszSQIV4O4A8dCYcosoIAhx89vNA6laDU5EXLYXmKxWE\/SDA==",
+      "summary" : "A six-lesson reference course covering Tono's card types through Thai cooking.",
+      "version" : "1.0.0"
+    }
+  ],
+  "schemaVersion" : 1
+}
